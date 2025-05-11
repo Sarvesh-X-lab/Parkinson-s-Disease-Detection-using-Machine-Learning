@@ -45,6 +45,12 @@ Sample prediction provided at the end of the notebook
 
 ---
 
+**Workfow Diagram**
+
+<img src="z1.png" alt="Match Analysis" width="600"/>
+
+---
+
 **🛠️ Technologies Used**
 
 Python 3
